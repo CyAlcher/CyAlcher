@@ -6,49 +6,8 @@
 
 ---
 
-<!-- CHINESE -->
-<details open>
-<summary><b>🇨🇳 中文介绍</b></summary>
-
-<br>
-
-## 你好，我是 Max 👋
-
-**AI-Native 工具构建者** — 专注把专家思维蒸馏进 AI Agent，让每个人都能用上顶尖思维框架。
-
-### 🔭 正在做什么
-
-- 构建 **[mimeo-zh](https://github.com/CyAlcher/mimeo-main-zh)** — 一句命令把专家思维克隆成 Claude/Cursor 可用的 `SKILL.md`
-- 探索 AI-Native 工作流：Agent Workflow × 中文知识蒸馏 × 国产 LLM
-
-### 🚀 代表项目
-
-| 项目 | 一句话 | 技术栈 |
-|------|--------|--------|
-| [mimeo-zh](https://github.com/CyAlcher/mimeo-main-zh) | 自动蒸馏公开材料 → 生成即插即用的中文 SKILL.md | Python · DeepSeek · Claude Code |
-| [ai_native_a_stock_agent](https://github.com/CyAlcher/ai_native_a_stock_agent) | AI-Native A股分析 Agent | Python · LLM · Agent Workflow |
-
-### 🧠 技术方向
-
-```
-AI Agent 工程    ████████████░░  85%
-知识蒸馏 / RAG   ███████████░░░  78%
-Python 工具链    ████████████░░  85%
-LLM Prompt 工程  █████████████░  90%
-```
-
-### 📬 联系我
-
-- 💬 [GitHub Discussions](https://github.com/CyAlcher/mimeo-main-zh/discussions)
-- 🐛 [提 Issue](https://github.com/CyAlcher/mimeo-main-zh/issues)
-- 📖 微信公众号：搜索 **CyAlcher**
-
-</details>
-
----
-
 <!-- ENGLISH -->
-<details>
+<details open>
 <summary><b>🇬🇧 English Introduction</b></summary>
 
 <br>
@@ -137,6 +96,47 @@ LLM-Prompt-Engineering    █████████████░  90%
 
 - 💬 [GitHub Discussions](https://github.com/CyAlcher/mimeo-main-zh/discussions)
 - 🐛 [Issue erstellen](https://github.com/CyAlcher/mimeo-main-zh/issues)
+
+</details>
+
+---
+
+<!-- CHINESE -->
+<details>
+<summary><b>🇨🇳 中文介绍</b></summary>
+
+<br>
+
+## 你好，我是 Max 👋
+
+**AI-Native 工具构建者** — 专注把专家思维蒸馏进 AI Agent，让每个人都能用上顶尖思维框架。
+
+### 🔭 正在做什么
+
+- 构建 **[mimeo-zh](https://github.com/CyAlcher/mimeo-main-zh)** — 一句命令把专家思维克隆成 Claude/Cursor 可用的 `SKILL.md`
+- 探索 AI-Native 工作流：Agent Workflow × 中文知识蒸馏 × 国产 LLM
+
+### 🚀 代表项目
+
+| 项目 | 一句话 | 技术栈 |
+|------|--------|--------|
+| [mimeo-zh](https://github.com/CyAlcher/mimeo-main-zh) | 自动蒸馏公开材料 → 生成即插即用的中文 SKILL.md | Python · DeepSeek · Claude Code |
+| [ai_native_a_stock_agent](https://github.com/CyAlcher/ai_native_a_stock_agent) | AI-Native A股分析 Agent | Python · LLM · Agent Workflow |
+
+### 🧠 技术方向
+
+```
+AI Agent 工程    ████████████░░  85%
+知识蒸馏 / RAG   ███████████░░░  78%
+Python 工具链    ████████████░░  85%
+LLM Prompt 工程  █████████████░  90%
+```
+
+### 📬 联系我
+
+- 💬 [GitHub Discussions](https://github.com/CyAlcher/mimeo-main-zh/discussions)
+- 🐛 [提 Issue](https://github.com/CyAlcher/mimeo-main-zh/issues)
+- 📖 微信公众号：搜索 **CyAlcher**
 
 </details>
 
