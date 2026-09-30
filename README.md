@@ -14,7 +14,7 @@
 
 ## Hi, I'm Max 👋
 
-**AI-Native Tool Builder** — I build tools that make AI collaboration compound over time: from digitising your daily AI sessions, to automating recurring work, to letting a personal digital twin handle it for you.
+**AI Builder** — I build tools that make AI collaboration compound over time: from digitising your daily AI sessions, to automating recurring work, to letting a personal digital twin handle it for you.
 
 ### 🚀 Projects
 
